@@ -1,2 +1,2 @@
 # Music base game- Pratice 
- This is a pratice to learn how to use music interaction 
+ This project is a pratice to replicate the interavtive music game and to learn how to use diffrent elements and intgration of music into the game.  
